@@ -1,0 +1,34 @@
+body {
+  background-color: #631;
+}
+
+svg .Background {
+  fill: #faf8ff;
+}
+
+svg .ChartTitle {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+svg .AxisLabel {
+  font-weight: bold;
+}
+
+svg .Circle {
+  fill: #385;
+  stroke-width: 2px;
+  stroke: #321;
+}
+
+svg .Circle.Doping {
+  fill: #f78;
+}
+
+svg .Circle:hover {
+  fill: #ae9;
+}
+
+#ChartContainer {
+  text-align: center;
+}
